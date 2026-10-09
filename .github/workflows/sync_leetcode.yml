@@ -19,4 +19,3 @@ jobs:
           destination-folder: my-folder
           verbose: true
           commit-header: "[LeetCode Sync]"
-          commit-author: "belencast06 <castellanosbelen3@gmail.com>"
